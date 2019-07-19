@@ -12,7 +12,7 @@ print("the number is" ,2*3)
 # ctrl/
 
 if r > a:
-    print("yes.Test conflict1")
+    print("yes.Test conflict1 in branch")
 if r < a:
     print("no")
 

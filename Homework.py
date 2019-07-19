@@ -12,7 +12,7 @@ print("the number is" ,2*3)
 # ctrl/
 
 if r > a:
-    print("yes.test conflict2")
+    print("yes.test conflict?")
 if r < a:
     print("no")
 

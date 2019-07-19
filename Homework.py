@@ -15,7 +15,7 @@ if r > a:
     print("yes.test conflict?")
 if r < a:
     print("no")
-
+#what conflict?
 
 if(r!=a and a==8):
     print("yes")

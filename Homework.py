@@ -1,5 +1,5 @@
 a = 2
-b = "bla...."
+b = "bla....zzz"
 r = 4
 print (b)
 print(a)
